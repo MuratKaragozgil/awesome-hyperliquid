@@ -44,6 +44,9 @@
 
 ### APIs & Tools
 
+-[hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib) - most widely adopted library for smart contracts on Hyperliquid.
+
+
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
 
 ### Projects
